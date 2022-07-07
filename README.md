@@ -16,3 +16,5 @@ Instrucciones para levantar el proyecto:
 3.- Run as Spring boot app.
 
    ![image](https://user-images.githubusercontent.com/60943753/177842094-690c8ad2-7d86-42ab-babf-0c609a1ce88d.png)
+   
+4.- El frontend para este desarrollo se encuentra en https://github.com/EdgardoMD/az_frontend_angular
